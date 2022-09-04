@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655967529 source:d:\summercode\三角形的面积\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<algorithm>
+

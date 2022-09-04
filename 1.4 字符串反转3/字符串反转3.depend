@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1656226149 source:d:\summercode\字符串反转3\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
+1661825024 source:d:\summercode\1.4 字符串反转3\main.cpp
+	<bits/stdc++.h>
+
